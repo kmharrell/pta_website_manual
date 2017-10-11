@@ -1,27 +1,28 @@
-There are several  ways to make changes to pages on the website.   
+## To add content:
 
-1. edit the page.  Go to the page you want to edit, click on the "edit" tab.
+1. log in to the site at http://columbiasecondarypta.org/user/
+2. Click on "content" in the top menu
+3. Click on "add content"
+4. There are three types of content to add.  Ignore the other types (I will delete them soon)
+      - Article - adds to "CSS News" on the first page
+      - Event - add to "Upcoming events" in the footer of the first page
+      - Content Page - use this to add pages to the website.
+      - bios - use to add to the executive board.
+      - Documents - to add to the document link on the website
 
-2. Edit the body of the text.  Go to the page you want to edit, go to the right of the text and click on the icon.
-### Markdown
+## To add content to Content Page
+The content page uses an add on called "paragraphs" that allows content to be added in "paragraphs".  The paragraphs are sections of a page.   
 
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+To add a section, 
+1. click on the "edit" tab above the page title.   
+2. at the bottom of the page, there is a drop down menu (first item says "add accordian") 
+3. To add text, select "add blank" or "add simple"
+4. Fill in the text and click "save" at the bottom of the page.
 
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## To edit content.
+
+
+## To request changes
+All changes can be added to this non-public page on the website: 
+http://columbiasecondarypta.org/node/144
